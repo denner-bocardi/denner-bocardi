@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Denner Bocardi</h1>
 <h3 align="center">A passionate data scientis from Brazil</h3>
 
-- 🔭 I’m currently working on **a project to see how the fires in tropical florest in Brazil afects the temprature in cities like São Paulo**
+- 🔭 I’m currently working on **exploring and discovering classfiers models**
 
-- 🌱 I’m currently learning **classifiers estimators, regression an machine learning models**
+- 🌱 I’m currently learning **classifiers, estimators, regression an machine learning models**
 
 - 👯 I’m looking to collaborate on **financial data science projects**
 
