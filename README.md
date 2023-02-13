@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denner Bocardi</h1>
-<h3 align="center">A passionate data scientis from Brazil</h3>
+<h3 align="center">A passionate data scientist from Brazil</h3>
 
 - 🔭 I’m currently working on **exploring and discovering classfiers models**
 
