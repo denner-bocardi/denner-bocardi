@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Denner Bocardi</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🔭 I’m currently working on **exploring and discovering classfiers models**
+- 🔭 I’m currently working on **exploring and discovering classifiers and clustering models**
 
-- 🌱 I’m currently learning **classifiers, estimators, regression an machine learning models**
+- 🌱 I’m currently learning **classifiers, estimators, regression models**
 
 - 👯 I’m looking to collaborate on **financial data science projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **denner.bocardi@gmail.com**
 
-- ⚡ Fun fact **I'm realy afraid of bees**
+- 🐝  Fun fact **I'm realy afraid of bees**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
